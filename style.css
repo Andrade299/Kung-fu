@@ -40,7 +40,7 @@
       padding: 2% 0;
   }
   #a{
-      background-color:rgb(195, 200, 201);
+      background-color:rgb(70, 104, 110);
       margin:0;
       border-radius: 10px;
       display:flex;
@@ -66,11 +66,11 @@
   }
   ol{
       font-size: 20px;
-      color: black;
+      color: rgb(7, 174, 240);
   
   }
   p{
-      color: aliceblue;
+      color: rgb(236, 4, 4);
       font-size: 16px;
       text-align:justify;
       padding: 10px;
